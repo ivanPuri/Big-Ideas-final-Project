@@ -14,7 +14,6 @@ Canvas group number:
 Description and Links to the datasets used:
     https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167,
     This is a link to traffic data around pittsburgh, Ivan Puri
-
     https://data.wprdc.org/dataset/pgh/resource/86fab672-1c6b-48c3-a637-e5827c66ee5c,
     This data set has the income and education status of neighborhoods in Pittsburgh
     
