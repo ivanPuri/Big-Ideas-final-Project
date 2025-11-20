@@ -4,7 +4,7 @@ Team name: new york nets
 
 Team member's names and email addresses:
   Ivan Puri -- isp25@pitt.edu
-  
+  Jackson Mckay -- jwm166@pitt.edu
 Additionally, your README should tell us which individual analysis notebooks belong to which team members:
     
 Canvas group number:
