@@ -1,6 +1,6 @@
 # Big-Ideas-final-Project
 
-Team name:
+Team name: new york nets
 
 Team member's names and email addresses:
   Ivan Puri -- isp25@pitt.edu
