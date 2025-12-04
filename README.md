@@ -18,4 +18,5 @@ Description and Links to the datasets used:
     This data set has the income and education status of neighborhoods in Pittsburgh
     
     
-A one-sentence overview of your repository, meant for someone who is not familiar with the project:
+Overview
+This repository is for a project about ranking neighborhoods based on different metrics
