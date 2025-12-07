@@ -16,6 +16,8 @@ Description and Links to the datasets used:
     This is a link to traffic data around pittsburgh, Ivan Puri
     https://data.wprdc.org/dataset/pgh/resource/86fab672-1c6b-48c3-a637-e5827c66ee5c,
     This data set has the income and education status of neighborhoods in Pittsburgh
+    https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974/resource/8ce92a4b-fa62-45c3-8cee-cc58fefede75,
+    This data set contains the crime rate of Pittsburgh neighborhoods.
     
     
 Overview:
